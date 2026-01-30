@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmeanpw": "github:stdlib-js/stats-base-ndarray-dmeanpw#main",
     "@stdlib/stats-base-ndarray-meanpw": "github:stdlib-js/stats-base-ndarray-meanpw#main",
     "@stdlib/stats-base-ndarray-smeanpw": "github:stdlib-js/stats-base-ndarray-smeanpw#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
